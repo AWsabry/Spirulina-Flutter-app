@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703319341201",
+    "firebase_url": "https://spirulinaproducts-9a7a4.firebaseio.com",
+    "project_id": "spirulinaproducts-9a7a4",
+    "storage_bucket": "spirulinaproducts-9a7a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703319341201:android:513abc343293e83315a730",
+        "android_client_info": {
+          "package_name": "com.spirulina.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703319341201-laofrp8k5m2n11761mju1o7ms52241jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spirulina.app",
+            "certificate_hash": "b024047557bbbc2a82546c06812f210f9e5c3642"
+          }
+        },
+        {
+          "client_id": "703319341201-24mt93pspvp4dq1b1j7k0up9u8ank1v9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4PRY_vo6nNUih7oEHAv_Xu5YjJQfxFzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703319341201-24mt93pspvp4dq1b1j7k0up9u8ank1v9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
